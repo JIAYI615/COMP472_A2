@@ -21,6 +21,7 @@ To run the assignment, please make sure you have the following libraries install
 ```bash
 pip install nltk
 pip install pandas
+pip install numpy
 pip install matplotlib
 pip install gensim
 pip install notebook
